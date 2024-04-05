@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Celine</h1>
-<h3 align="center">A passionate frontend developer based in Canada</h3>
+<h3 align="center">A passionate full-stack developer based in Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zijing-liu&label=Profile%20views&color=0e75b6&style=flat" alt="zijing-liu" /> </p>
 
 - 🔭 I’m currently working on [WiseWardro](https://github.com/Zijing-Liu/WiseWardro)
 
-- 🌱 I’m currently learning **Go, and system design**
+- 🌱 I’m currently learning **AWS, Go, and System Design**
 
 - 👯 I’m also collaborating on [Queup](https://github.com/germainechu/CourtFinder-WebApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zijing-Liu](https://github.com/Zijing-Liu)
 
-- 📫 How to reach me **zijingcelinel@gmail.com** or connect with me on [LinkedIN](https://www.linkedin.com/in/zijing-celine-liu/)
+- 📫 How to reach me **zijingcelinel@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/zijing-celine-liu/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/132odgSN6aOWyeR11MSSx_PKEfDVr3ONV/view?usp=sharing)
+- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/132odgSN6aOWyeR11MSSx_PKEfDVr3ONV/view?usp=sharing)
 
 - ⚡ Fun fact **I had a BEng in Urban Planning**
 
