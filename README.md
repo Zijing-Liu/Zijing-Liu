@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zijing-liu&label=Profile%20views&color=0e75b6&style=flat" alt="zijing-liu" /> </p>
 
-- 🔭 I’m currently working on [WiseWardro](https://github.com/Zijing-Liu/WiseWardro)
+- 👯 I’m currently working on the infrastructure and backend development at [Queup](https://github.com/germainechu/CourtFinder-WebApp) team.
+
+- 🔭 I recently wrapped an interesting project leveraging OpenAI TuGPT-4 Turbo Vision Model [WiseWardro](https://github.com/Zijing-Liu/WiseWardro)
 
 - 🌱 I’m currently learning **AWS, Go, and System Design**
-
-- 👯 I’m also collaborating on [Queup](https://github.com/germainechu/CourtFinder-WebApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zijing-Liu](https://github.com/Zijing-Liu)
 
