@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celine</h1>
-<h3 align="center">A backend developer based in Canada, work with Python, Java, AWS</h3>
+<h3 align="center">A backend developer based in Canada, primarily working with Python, Java, and AWS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zijing-liu&label=Profile%20views&color=0e75b6&style=flat" alt="zijing-liu" /> </p>
 
