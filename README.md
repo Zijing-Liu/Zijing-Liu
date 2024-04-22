@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zijing-Liu](https://github.com/Zijing-Liu)
 
-- 📫 How to reach me **zijingcelinel@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/zijing-celine-liu/)
+- 📫 Reach me out at **zijingcelinel@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/zijing-celine-liu/)
 
 - 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/132odgSN6aOWyeR11MSSx_PKEfDVr3ONV/view?usp=sharing)
 
