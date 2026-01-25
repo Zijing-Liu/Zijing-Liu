@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zijing</h1>
 <h3 align="center">A full-stack developer based in Vancouver, primarily working with Python, Java, and AWS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zijing-liu&label=Profile%20views&color=0e75b6&style=flat" alt="zijing-liu" /> </p>
-
-- 👯 I’m currently working on the infrastructure and backend development at [Queup](https://github.com/germainechu/CourtFinder-WebApp) team.
-
-- 🔭 I recently wrapped an interesting project leveraging OpenAI TuGPT-4 Turbo Vision Model [WiseWardro](https://github.com/Zijing-Liu/WiseWardro)
-
-- 🌱 I’m currently learning **AWS, Go, and System Design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Zijing-Liu](https://github.com/Zijing-Liu)
-
 - 📫 Reach me out at **zijingcelinel@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/zijing-celine-liu/)
 
-- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/132odgSN6aOWyeR11MSSx_PKEfDVr3ONV/view?usp=sharing)
+- 📄 Know about my experiences:
 
 - ⚡ Fun fact **I have a BEng in Urban Planning**
 
